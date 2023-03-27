@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './App.css';
 
 function App() {
   const [list, setList] = useState([]);
@@ -21,7 +22,7 @@ function App() {
     setList(newList);
   };
   return (
-    <div>
+    <div className="App">
       <h1>Todo List</h1>
       <input type="text" value={input} onChange={(e) => setInput(e.target.value)} />
       <button type="button" onClick={() => addTodo(input)}>Add</button>
