@@ -21,7 +21,7 @@
 - [📝 License](#license)
 
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 React Todo App <a name="about-project"></a>
 
 
 **React Todo App** Simple Todo app built with React
@@ -74,7 +74,7 @@ In order to run this project you need to run:
 Clone this repository to your desired folder:
 
 - ```cd math-magicians```
-- git clone https://github.com/MostafaShahat2021/mathmagicians
+- git clone git@github.com:MostafaShahat2021/react-todo-app.git
 
 Install this project with:
 1. Installed Git.
